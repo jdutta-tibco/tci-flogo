@@ -1,4 +1,4 @@
-# Salesforce activities for bulk operations Example
+# SFSlack Sample 
 
 
 ## Description
@@ -11,6 +11,7 @@ The example of the Salesforce_BulkAPISample app includes bulk job activities in 
 
 * Ensure that Flogo Connector for Salesforce.com must be installed.
 * Ensure that you have an active Salesforce.com account.
+* Ensure we have Slack account
 * Ensure that you have set up the OAuth permissions in Salesforce.com before installing the connector which will be used in the Salesforce connection for Client ID and Client Secret parameters. To set up OAuth permissions, follow the steps mentioned in 'Creating a Salesforce.com Connection' topic in the TIBCO Cloud Integration documentation.
 
 ## Import the sample
